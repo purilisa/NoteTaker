@@ -21,7 +21,7 @@
   ***
 
   ## Installation
-  Please navigate to https://git.heroku.com/warm-beach-55335.git
+  Please navigate to https://warm-beach-55335.herokuapp.com/
 
 
   ## How to Use This Application
